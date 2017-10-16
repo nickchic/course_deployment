@@ -23,7 +23,7 @@ pew==0.1.26
 pipenv==5.2.0
 py2app==0.7.3
 pycparser==2.18
-pyOpenSSL==0.13.1
+pyOpenSSL==0.14
 pyparsing==2.0.1
 python-dateutil==1.5
 pythonz-bd==1.11.4
